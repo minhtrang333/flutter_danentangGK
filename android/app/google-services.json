@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086471980039",
+    "project_id": "flutterdanentang01",
+    "storage_bucket": "flutterdanentang01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086471980039:android:d9cd9641fe2779727e96a2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_danentang_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-CE6_bR2A5g_niixeVb_NHiEogkwBBQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
